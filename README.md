@@ -1,5 +1,9 @@
 # Machine-Learning-Models
 Machine Learning Models for Various Fields
+___________
+## Machine Learning Article I Wrote
+
+https://www.linkedin.com/pulse/deep-dive-machine-learning-nikolas-karaffa
 
 ___________
 
